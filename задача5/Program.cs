@@ -4,7 +4,7 @@
 // 5, 25  ->  да
 // -4, 16  ->  да
 // 25, 5  ->  да
-// 8,9  ->  нет
+// 8, 9  ->  нет
 
 Console.WriteLine("Введите число");
 int nam1 = Convert.ToInt32(Console.ReadLine());
