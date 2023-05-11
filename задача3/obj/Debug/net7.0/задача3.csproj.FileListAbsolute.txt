@@ -1,0 +1,15 @@
+C:\Users\akordel\Desktop\Семинар2\задача3\bin\Debug\net7.0\задача3.exe
+C:\Users\akordel\Desktop\Семинар2\задача3\bin\Debug\net7.0\задача3.deps.json
+C:\Users\akordel\Desktop\Семинар2\задача3\bin\Debug\net7.0\задача3.runtimeconfig.json
+C:\Users\akordel\Desktop\Семинар2\задача3\bin\Debug\net7.0\задача3.dll
+C:\Users\akordel\Desktop\Семинар2\задача3\bin\Debug\net7.0\задача3.pdb
+C:\Users\akordel\Desktop\Семинар2\задача3\obj\Debug\net7.0\задача3.csproj.AssemblyReference.cache
+C:\Users\akordel\Desktop\Семинар2\задача3\obj\Debug\net7.0\задача3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akordel\Desktop\Семинар2\задача3\obj\Debug\net7.0\задача3.AssemblyInfoInputs.cache
+C:\Users\akordel\Desktop\Семинар2\задача3\obj\Debug\net7.0\задача3.AssemblyInfo.cs
+C:\Users\akordel\Desktop\Семинар2\задача3\obj\Debug\net7.0\задача3.csproj.CoreCompileInputs.cache
+C:\Users\akordel\Desktop\Семинар2\задача3\obj\Debug\net7.0\задача3.dll
+C:\Users\akordel\Desktop\Семинар2\задача3\obj\Debug\net7.0\refint\задача3.dll
+C:\Users\akordel\Desktop\Семинар2\задача3\obj\Debug\net7.0\задача3.pdb
+C:\Users\akordel\Desktop\Семинар2\задача3\obj\Debug\net7.0\задача3.genruntimeconfig.cache
+C:\Users\akordel\Desktop\Семинар2\задача3\obj\Debug\net7.0\ref\задача3.dll
